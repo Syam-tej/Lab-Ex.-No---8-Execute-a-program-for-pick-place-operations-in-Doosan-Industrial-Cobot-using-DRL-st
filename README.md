@@ -40,8 +40,16 @@ Procedure:
 
 
 ## Program 
+![image](https://user-images.githubusercontent.com/94165326/175800324-0dacd3f3-dc6f-4645-9aa4-cdbe0f275e97.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175800328-e0895814-8c3c-47b2-85b8-081078a35f4c.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175800332-baca6975-3054-444f-9739-5216f4dd41cd.png)
 
 ## output : 
+
+
+![image](https://user-images.githubusercontent.com/94165326/175800347-730428c4-1dac-4ec8-91b4-08f2708455b1.png)
 
 
 ## Results: 
